@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Outliers_FinTech_CityHack22/static/css/main.4eb6e874.chunk.css",
-    "main.js": "/Outliers_FinTech_CityHack22/static/js/main.cd2a2758.chunk.js",
-    "main.js.map": "/Outliers_FinTech_CityHack22/static/js/main.cd2a2758.chunk.js.map",
+    "main.js": "/Outliers_FinTech_CityHack22/static/js/main.8a63a882.chunk.js",
+    "main.js.map": "/Outliers_FinTech_CityHack22/static/js/main.8a63a882.chunk.js.map",
     "runtime-main.js": "/Outliers_FinTech_CityHack22/static/js/runtime-main.3443b5f2.js",
     "runtime-main.js.map": "/Outliers_FinTech_CityHack22/static/js/runtime-main.3443b5f2.js.map",
     "static/css/2.c4dd6d7a.chunk.css": "/Outliers_FinTech_CityHack22/static/css/2.c4dd6d7a.chunk.css",
-    "static/js/2.f83067ae.chunk.js": "/Outliers_FinTech_CityHack22/static/js/2.f83067ae.chunk.js",
-    "static/js/2.f83067ae.chunk.js.map": "/Outliers_FinTech_CityHack22/static/js/2.f83067ae.chunk.js.map",
+    "static/js/2.6876c834.chunk.js": "/Outliers_FinTech_CityHack22/static/js/2.6876c834.chunk.js",
+    "static/js/2.6876c834.chunk.js.map": "/Outliers_FinTech_CityHack22/static/js/2.6876c834.chunk.js.map",
     "index.html": "/Outliers_FinTech_CityHack22/index.html",
     "static/css/2.c4dd6d7a.chunk.css.map": "/Outliers_FinTech_CityHack22/static/css/2.c4dd6d7a.chunk.css.map",
     "static/css/main.4eb6e874.chunk.css.map": "/Outliers_FinTech_CityHack22/static/css/main.4eb6e874.chunk.css.map",
-    "static/js/2.f83067ae.chunk.js.LICENSE.txt": "/Outliers_FinTech_CityHack22/static/js/2.f83067ae.chunk.js.LICENSE.txt",
+    "static/js/2.6876c834.chunk.js.LICENSE.txt": "/Outliers_FinTech_CityHack22/static/js/2.6876c834.chunk.js.LICENSE.txt",
     "static/media/charity.jpeg": "/Outliers_FinTech_CityHack22/static/media/charity.7041fb2d.jpeg",
     "static/media/charity1.png": "/Outliers_FinTech_CityHack22/static/media/charity1.5d0b209e.png",
     "static/media/charity3.jpeg": "/Outliers_FinTech_CityHack22/static/media/charity3.4d4104cd.jpeg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.3443b5f2.js",
     "static/css/2.c4dd6d7a.chunk.css",
-    "static/js/2.f83067ae.chunk.js",
+    "static/js/2.6876c834.chunk.js",
     "static/css/main.4eb6e874.chunk.css",
-    "static/js/main.cd2a2758.chunk.js"
+    "static/js/main.8a63a882.chunk.js"
   ]
 }
