@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Outliers_FinTech_CityHack22/static/css/main.4eb6e874.chunk.css",
-    "main.js": "/Outliers_FinTech_CityHack22/static/js/main.c4ec7eac.chunk.js",
-    "main.js.map": "/Outliers_FinTech_CityHack22/static/js/main.c4ec7eac.chunk.js.map",
+    "main.js": "/Outliers_FinTech_CityHack22/static/js/main.e98c82eb.chunk.js",
+    "main.js.map": "/Outliers_FinTech_CityHack22/static/js/main.e98c82eb.chunk.js.map",
     "runtime-main.js": "/Outliers_FinTech_CityHack22/static/js/runtime-main.3443b5f2.js",
     "runtime-main.js.map": "/Outliers_FinTech_CityHack22/static/js/runtime-main.3443b5f2.js.map",
     "static/css/2.c4dd6d7a.chunk.css": "/Outliers_FinTech_CityHack22/static/css/2.c4dd6d7a.chunk.css",
@@ -40,6 +40,6 @@
     "static/css/2.c4dd6d7a.chunk.css",
     "static/js/2.8f9beed5.chunk.js",
     "static/css/main.4eb6e874.chunk.css",
-    "static/js/main.c4ec7eac.chunk.js"
+    "static/js/main.e98c82eb.chunk.js"
   ]
 }
